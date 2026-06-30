@@ -19,12 +19,12 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nrfmicro/nrf52840/zmk
     shield: settings_reset
-    artifact-name: settings_reset_nice_nano
+    artifact-name: settings_reset_nice_nrfmicro
 
-  - board: nice_nano
+  - board: nrfmicro/nrf52840/zmk
     shield: corne_hw_left
 
-  - board: nice_nano
+  - board: nrfmicro/nrf52840/zmk
     shield: corne_hw_right
